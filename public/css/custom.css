@@ -1,0 +1,18 @@
+
+.navbar-brand span{
+    color: #ffbc00;
+}
+
+.panel-heading h3{
+    margin: 0;
+}
+.main-container{
+    background-color:#fff;
+    margin-top: 60px;
+    padding-top:30px;
+}
+.sidebar{
+    padding:16px 16px 16px 0;
+}
+
+
